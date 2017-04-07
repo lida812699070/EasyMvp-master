@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EasyMvp</string>
+    <string name="gallery">相册</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+    <string name="main_home">最新</string>
+    <string name="main_category">分类浏览</string>
+    <string name="main_videos">搞笑视频</string>
+    <string name="main_reading">闲读</string>
+    <string name="main_welfare">福利</string>
+    <string name="about">关于</string>
+    <!--再别康桥-->
+    <string name="Goodbye_Again_Cambridge">
+                    "再别康桥\n"
+			"　　轻轻的我走了，\n"
+			"　　正如我轻轻的来；\n"
+			"　　我轻轻的招手，\n"
+			"　　作别西天的云彩。\n"
+			"　　那河畔的金柳，\n"
+			"　　是夕阳中的新娘；\n"
+			"　　波光里的艳影，\n"
+			"　　在我的心头荡漾。\n"
+
+    </string>
+    <string name="csdn_url">http://blog.csdn.net/xiaochuanding</string>
+    <string name="github_url">https://github.com/DingMouRen</string>
+</resources>

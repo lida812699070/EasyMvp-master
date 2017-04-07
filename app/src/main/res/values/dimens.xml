@@ -1,0 +1,35 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--常用dp值-->
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="px_1">1px</dimen>
+
+
+    <dimen name="img_girl_height_256dp">256dp</dimen>
+    <dimen name="fab_margin_bottom_60dp">60dp</dimen>
+    <!--nav_header图片宽高-->
+    <dimen name="img_width_nav_header">80dp</dimen>
+    <dimen name="img_height_nav_header">80dp</dimen>
+    <!--splash页面倒计时的宽高-->
+    <dimen name="timer_width">40dp</dimen>
+    <dimen name="timer_height">40dp</dimen>
+    <!--相册上下的margin-->
+    <dimen name="gallery_margin">20dp</dimen>
+    <!--loaidngview的宽高-->
+    <dimen name="loading_size">100dp</dimen>
+    <!--视频条高度-->
+    <dimen name="item_video_height">200dp</dimen>
+    <!--分类浏览card上下的margin-->
+    <dimen name="category_item_margin_20dp">20dp</dimen>
+    <dimen name="category_item_title_15sp">15sp</dimen>
+    <dimen name="category_item_subtitle_12sp">12sp</dimen>
+
+    <dimen name="image_final_width">32dp</dimen>
+    <dimen name="titlebar_size">20sp</dimen>
+    <dimen name="video_user_header_size">40dp</dimen>
+
+
+</resources>

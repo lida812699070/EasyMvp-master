@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#39E0FF</color>
+    <color name="colorPrimaryDark">#39E0FF</color>
+    <color name="colorAccent">#39E0FF</color>
+
+    <!--主色-->
+    <color name="main_color">#39E0FF</color>
+
+    <!--倒计时控件背景半透明颜色-->
+    <color name="timer_background_color">#20F25D8E</color>
+    <color name="green">#80D63F</color>
+    <color name="blue">#39E0FF</color>
+    <color name="gray">#edebeb</color>
+    <color name="gray_dark">#979696</color>
+    <color name="gallery_blue">#39E0FF</color><!--图片选择器UI-->
+
+</resources>

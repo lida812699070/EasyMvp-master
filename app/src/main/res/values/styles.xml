@@ -1,0 +1,49 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/main_color</item>
+        <item name="colorPrimaryDark">@color/main_color</item>
+        <item name="colorAccent">@color/main_color</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+    <!--欢迎界面theme-->
+    <style name="SplashTheme" parent="AppTheme" >
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!--HomeActivity的theme-->
+    <style name="HomeActivityTheme" parent="AppTheme">
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+    <!--相册界面theme-->
+    <style name="GalleryTheme" parent="AppTheme" >
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <!--视频列表Theme-->
+    <style name="VideoActivityTheme" parent="AppTheme">
+        <item name="android:actionOverflowButtonStyle">@style/ToolbarArrowStyle</item>
+    </style>
+    <!--AboutActivity的Theme-->
+    <style name="AboutTheme" parent="AppTheme">
+       <!-- <item name="android:windowDrawsSystemBarBackgrounds">true</item>-->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+    </style>
+
+    <!--白色的打开侧滑栏按钮-->
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@android:color/white</item>
+    </style>
+    <!--toolbar返回箭头颜色-->
+    <style name="ToolbarArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@android:color/white</item>
+    </style>
+
+
+</resources>
